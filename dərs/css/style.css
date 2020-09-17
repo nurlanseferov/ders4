@@ -1,0 +1,360 @@
+.icon i {
+    color: #ffffff;
+background-color: black;
+padding: 15px;
+position: fixed;
+right: 20px;
+top: 20px;
+cursor: -webkit-grab;
+border-radius: 20%;
+}
+
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bir{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 19rem 0;
+    
+}
+.bir button{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+border-radius: 7px;
+cursor: -webkit-grab;
+transition: 0.6s
+  }
+
+.bir button:hover{
+    color: blue;
+background-color: burlywood;
+border: groove crimson;
+}
+
+.bir h1{
+color: #212529;
+font-size: 64px;
+}
+.bir h3{
+color: #212529;
+font-size: 28px;
+margin-top: 4px;
+}
+.iki h2{
+    color: #212529;
+    font-size: 32px;
+}
+.balaca p{
+    color: #212529;
+    margin-top: 8px;
+    font-size: 20px;
+}
+.balaca a{
+    font-size: 20px;
+    color: #1d809f;
+}
+.son button{
+    background-color: #343a40;
+color: #ffffff;
+padding: 20px 40px;
+border: none; 
+border-radius: 4px;
+transition: 0.6s;
+} 
+.son button:hover{
+    color: darkorchid;
+    background-color: dimgray;
+    transform: rotate(12deg);
+}
+
+.iki{
+    text-align: center;}
+.bala p{
+    color: #212529;
+    font-size: 20px;
+}
+.bala a{
+    color: #1d809f;
+    font-size: 20px;
+}
+.bala{
+    float: left;
+}
+.ana{
+    margin-top: 8px;
+    margin-left: 13%;
+}
+.son button{
+    margin-top: 48px;
+    margin-right: 9%;
+}
+.son{text-align: center;}
+.iki{
+    text-align: center;
+    margin: 10% 10%;
+}
+.ilk{
+    text-align: center;
+    background-color: rgb(18, 18, 110);
+    padding: 200px ;
+}
+.ilk h3{
+    color: #ecb807;
+    font-size: 16px;
+}
+.ilk h2{
+    color: #ffffff;
+    font-size: 48px;
+}
+.kicik{
+    margin: 0px 0px 48px;
+}
+.box strong{
+    color: #ffffff;
+    font-size: 24px ;
+}
+.box b{
+    color: #ffffff;
+font-size: 16px;
+}
+.box{
+    float: left;
+    width: 24%;
+}
+.box i{
+color: rgb(18, 18, 110);
+background-color: #ffffff;
+padding: 20px 20px;
+border-radius: 100%;
+cursor: -webkit-grab;
+margin-bottom: 20px;
+
+}
+
+.il{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+text-align: center;
+    padding: 15rem
+}
+.il h2{
+    color:#212529;
+    font-size: 56px;
+}
+.il button{
+    background-color: #1d809f;
+    color: #ffffff;
+border-radius: 6px;
+border: none;
+padding: 20px 40px;
+cursor: -webkit-grab;
+margin-top: 20px;
+}
+.boss{ 
+text-align: center;
+padding: 5rem;
+
+    }
+.yaz{
+margin-bottom: 24px;
+}
+
+.qutular{
+width: 80%;
+margin: auto;
+height: 80%;
+
+  }
+.qutu img{
+    width: 100%;
+}
+.boss{
+padding: 5rem;
+}
+.boss h3{
+    font-size: 16px;
+    color: darkgoldenrod;
+}
+.boss h2{ 
+    font-size: 48px;
+color: #212529;
+}
+ .qutu{
+    width: 50%;
+    float: left;
+    position: relative
+
+}
+.qutu img{
+    transition: 0.5s;
+}
+.qutu img:hover{
+    transform: scale(0.9);
+     
+}
+
+ .yazi{
+    position: absolute;
+    left: 20px;
+    bottom: 20px
+}
+.yazi h2{
+    color: #ffffff;
+    font-size: 32px;
+}
+.yazi b{
+    color: #ffffff;
+    font-size: 19.3px;
+}
+.ayr{
+    padding: 2rem;
+    clear: both;
+}
+.yeni{ 
+padding: 10rem;
+background-color: darkcyan;
+text-align: center;
+ }
+.yeni h2{
+color: #ffffff;
+font-size: 32px;
+margin-bottom: 20px;
+}
+.yeni button{
+    color: #ffffff;
+background-color: black;
+padding: 20px 40px;
+border: none;
+border-radius: 7px;
+font-size: 16px;
+cursor: -webkit-grab;
+transition: 0.5s;
+margin-left: 10px;
+margin-right: 10px;
+
+
+}
+.yeni button:hover{
+    background-color: cornflowerblue;
+}
+.sosial i{
+    color: #1d809f;
+margin: 0px 10px 0px 10px;
+border: none;
+font-size: 60px;
+border-radius: 100%;
+cursor: -webkit-grab;
+background-color: #ffffff;
+transition: 0.5s;
+}
+.sosial i:hover{
+color: aquamarine;
+transform: rotate(360deg);
+
+
+
+
+}
+.sonluq p{
+    color: #343a40;
+    font-size: 12.8px;
+    margin-top: 50px;
+}
+.sonluq{
+    text-align: center;
+padding: 5rem;
+
+}
+.iconson i{
+    color: #ffffff;
+background-color: black;
+padding: 20px 20px;
+transition: 0.5s;
+position: fixed;
+right: 20px;
+bottom: 20px;
+}
+.iconson i:hover{
+    color: darkgray;
+
+background-color: darkgreen;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
